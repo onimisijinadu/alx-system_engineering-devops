@@ -1,7 +1,3 @@
-My first README.md > README.md
-
-ls
-cd ..
 
 
 
