@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755X 11-directories_permissions
+chmod -R u=rwxX g=rxX o=rxX 11-directories_permissions
