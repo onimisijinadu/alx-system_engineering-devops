@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 100-change_owner_and_group vincent:chgrp staff 100-change_owner_and_group 
+sudo chown vincent:chgrp staff 100-change_owner_and_group 
