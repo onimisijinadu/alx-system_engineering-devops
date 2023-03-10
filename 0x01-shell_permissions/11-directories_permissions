@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=rwx, g=rx,o=rx 11-directories_permissions
+chmod -R ugo+X 
