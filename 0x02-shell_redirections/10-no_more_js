@@ -1,2 +1,2 @@
 #!/bin/bash
-rm .js* .| wc -1
+rm .js* wc -1
