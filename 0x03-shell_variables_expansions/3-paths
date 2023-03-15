@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH="find . -type f 3-paths | wc 1"
+echo $((echo $PATH | grep -0 ":" | wc -|' + 1))
