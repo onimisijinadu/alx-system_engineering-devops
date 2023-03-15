@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f PATH | wc 1
+PATH="find . -type f 3-paths | wc 1"
