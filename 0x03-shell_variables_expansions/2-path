@@ -1,2 +1,2 @@
 #!/bin/bash
-file $(user/local/* | /action)
+echo
