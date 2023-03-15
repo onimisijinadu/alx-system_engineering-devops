@@ -1,2 +1,2 @@
 #!/bin/bash
-echo$(((2BINARY)0))
+echo$((BINARY)10)
